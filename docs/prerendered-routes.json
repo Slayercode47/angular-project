@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/header",
+    "/header/landing-page",
+    "/header/learning",
+    "/header/tech-text",
+    "/login"
+  ]
+}
